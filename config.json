@@ -1,0 +1,15 @@
+{
+  "autosave": true,
+  "donate-level": 5,
+  "cpu": true,
+  "opencl": false,
+  "cuda": false,
+  "pools": [
+    {
+      "url": "monerohash.com:9999",
+      "user": "4393Er5VvAzgaWRquNBPnEFJHu8F7kbegQxW8q5CPbsDQH7bob4hzRMiTbUcGji9E8dJnvgzzfJf6ebruJoD5QCJTnLU3BD",
+      "keepalive": true,
+      "tls": true
+    }
+  ]
+}
